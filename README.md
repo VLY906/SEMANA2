@@ -2,7 +2,7 @@
 Estudiante: Virginia Leon Yara  
 Materia: Multimedia para Móviles  
 
-### 1. SEMANA2
+### SEMANA2
 Aplicación Flutter que contiene:
 - Uso de MaterialApp y StatelessWidget
 - Interfaz con Row y Column como estructura principal
